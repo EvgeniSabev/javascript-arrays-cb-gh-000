@@ -14,3 +14,5 @@ var tomatoSauceIngredients = [
   'basil',
   'oregano'
 ]
+
+console.log(tomatoSauceIngredients);
